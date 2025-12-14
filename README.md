@@ -30,7 +30,3 @@ The NEON kernel (`matmul.s`) performs 4x4 matrix multiplication using:
 - Each output row is computed as a linear combination of B's rows, weighted by the corresponding A row elements
 
 The tiled implementation extends this to larger matrices by blocking into 4x4 tiles.
-
-## License
-
-MIT
