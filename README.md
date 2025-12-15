@@ -33,4 +33,4 @@ The tiled implementation extends this to larger matrices by blocking into 4x4 ti
 
 # Credit
 
-Most of this code was written by Claude.
+Most of this code was written by Claude. I cannot vouch for any of its contents.
